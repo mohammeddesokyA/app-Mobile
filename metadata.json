@@ -1,0 +1,6 @@
+{
+  "name": "أكاديمية النجوم الصغار",
+  "description": "منصة تعليمية تفاعلية وممتعة للأطفال لتعلم القرآن، اللغة العربية، الإنجليزية، العلوم، والبرمجة مع حصص مباشرة ومتابعة لأولياء الأمور.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
